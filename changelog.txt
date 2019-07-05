@@ -1,3 +1,11 @@
+v1.0.2
+
+05/07/2019
+
+Iníciodo style de Cores
+Correção nos links do protótipo
+
+
 v1.0.1
 
 05/07/2019
