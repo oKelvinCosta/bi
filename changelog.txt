@@ -1,13 +1,20 @@
-v1.0.2
+v1.0.3
+09/07/2019
 
+Resolução doc SEXTOU 98%
+Resolução ítens reunião 09/07/2019 98%
+
+------------------------------
+
+v1.0.2
 05/07/2019
 
-Iníciodo style de Cores
+Início do style de Cores
 Correção nos links do protótipo
 
+------------------------------
 
 v1.0.1
-
 05/07/2019
 
 Proposta para correção final do protótipo para reunião aos superiores
