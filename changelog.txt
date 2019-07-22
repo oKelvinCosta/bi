@@ -1,3 +1,11 @@
+v1.0.5
+22/07/2019
+
+Atualização link do modal de editar no termo de formalização
+Atualização tabelas do modal de editar no termo de formalização
+
+------------------------------
+
 v1.0.4
 12/07/2019
 
