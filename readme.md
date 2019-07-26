@@ -4,20 +4,36 @@
 
 # Changelog
 
-All notable changes to this project will be documented in this file.
-
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+
+## [1.0.8] - 26-07-2019
+
+### Adição :rocket:
+
+- Favicon na pasta img/favicon.
+- Sugestão de novo login ocultas do link público - Telas_EvandoMirra_StyleGuide.xd.
+- Sugestão de disposição do menu de tramitação de microetapas lateral ocultas do link público - Telas_EvandoMirra_StyleGuide.xd.
+
+### Atualização :pushpin:
+
+- Botões - Telas_EvandoMirra_StyleGuide.xd.
+- Medidas Chaves - Telas_EvandoMirra_StyleGuide.xd.
+- Imagens e ícones em suas respectivas pastas.
+
+### Correção :wrench:
+
+- Mudança de termos no readme.md.
+- Menu contextual estava sobre a migalha e pão.
 
 ## [1.0.7] - 25-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Ícones readme.md.
 - Informação de campo.
-- Tela experimentação cards sem borda
-  °ATT STYLE GUIDE COM NOVAS TELAS
+- Tela experimentação cards sem borda no arquivo principal.
 
-### Atualizado :pushpin:
+### Atualização :pushpin:
 
 - Filtro na tabela parecido com gitlab
 - Novo modelo tabelas
@@ -28,7 +44,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.6] - 23-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Criação pasta img para imagens, ícones e SVG.
   - Logo menu principal.
@@ -37,21 +53,21 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
   - Observação campo.
 - Pasta font, com a tipografia Work Sans.
 
-### Atualizado :pushpin:
+### Atualização :pushpin:
 
 - Menu lateral.
 - Style guide.
 
 ## [1.0.5] - 22-07-2019
 
-### Atualizado :pushpin:
+### Atualização :pushpin:
 
 - Link do modal de editar no termo de formalização.
 - Tabelas do modal de editar no termo de formalização.
 
 ## [1.0.4] - 12-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Guia de estilo - Material Design.
 - Guia de estilo - Ícones.
@@ -61,7 +77,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Modelos de telas responsivas, Tablet e Smartphone.
 - Novo modelo de cabeçalho na linha do tempo.
 
-### Atualizado :pushpin:
+### Atualização :pushpin:
 
 - Mudança da barra de acessessibilidade para o modal do ícone perfil.
 - Termo de outorga na etapa anexos do termo de formalização.
@@ -72,14 +88,14 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.3] - 09-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Resolução doc SEXTOU 98%.
 - Resolução ítens reunião 09/07/2019 98%.
 
 ## [1.0.2] - 05-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Início do style de Cores.
 
@@ -89,6 +105,6 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.1] - 05-07-2019
 
-### Adicionado :rocket:
+### Adição :rocket:
 
 - Proposta para correção final do protótipo para reunião aos superiores.
