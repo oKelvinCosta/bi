@@ -6,6 +6,22 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.0.9] - 29-07-2019
+
+### Adição :rocket:
+
+- Tela experimentação cards sem borda em objetivos no arquivo principal.
+
+### Atualização :pushpin:
+
+- Retirada do Lembrar do Login
+- Mensagem de ajuda no campo de erro e alerta
+- Troca de ícone de observação de campo no input
+
+### Correção :wrench:
+
+- Botão de filtros nas tabelas
+
 ## [1.0.8] - 26-07-2019
 
 ### Adição :rocket:
