@@ -6,6 +6,16 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.0] - 30-07-2019
+
+### Adição :rocket:
+
+- Opções que abrem outro modal no menu do ícone de perfil.
+
+### Atualização :pushpin:
+
+- Novos campos provisórios de cadastro de usuário.
+
 ## [1.0.9] - 29-07-2019
 
 ### Adição :rocket:
@@ -14,13 +24,13 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Atualização :pushpin:
 
-- Retirada do Lembrar do Login
-- Mensagem de ajuda no campo de erro e alerta
-- Troca de ícone de observação de campo no input
+- Retirada do Lembrar do Login.
+- Mensagem de ajuda no campo de erro e alerta.
+- Troca de ícone de observação de campo no input.
 
 ### Correção :wrench:
 
-- Botão de filtros nas tabelas
+- Botão de filtros nas tabelas.
 
 ## [1.0.8] - 26-07-2019
 
