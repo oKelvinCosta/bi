@@ -6,6 +6,35 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.2] - 02-08-2019
+
+### Adição :rocket:
+
+- Menu para escolha de Microetapas passadas.
+
+### Atualização :pushpin:
+
+- Reformulação para o formulário ocupar mais espaço na tela de Linha do Tempo - Todas as telas.
+- Checkbox das tabelas que são apenas para visualizar removidos.
+- Guia de Estilo - igualado.
+
+### Correção :wrench:
+
+- Padronização medidas das telas de Linha do Tempo.
+- Guia de Estilo - Artboard tabelas re-adicionado.
+
+## [1.1.1] - 31-07-2019
+
+### Adição :rocket:
+
+- Menu para Atribuição.
+- Menu para Marcador.
+
+### Atualização :pushpin:
+
+- Reformulação para o formulário ocupar mais espaço na tela de Linha do Tempo - Termo de Formalização.
+- Switch menu perfil.
+
 ## [1.1.0] - 30-07-2019
 
 ### Adição :rocket:
