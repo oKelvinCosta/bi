@@ -6,6 +6,19 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.3] - 05-08-2019
+
+### Adição :rocket:
+
+- Guia de estilo - Medidas dos painéis.
+- Guia de estilo - Medidas dos modais.
+- Guia de estilo - Modo alto contraste.
+- Guia de estilo - Modo daltônico.
+
+### Atualização :pushpin:
+
+- Guia de estilo - Tabelas.
+
 ## [1.1.2] - 02-08-2019
 
 ### Adição :rocket:
@@ -16,7 +29,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Reformulação para o formulário ocupar mais espaço na tela de Linha do Tempo - Todas as telas.
 - Checkbox das tabelas que são apenas para visualizar removidos.
-- Guia de Estilo - igualado.
+- Guia de estilo - igualado.
 
 ### Correção :wrench:
 
@@ -111,7 +124,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Atualização :pushpin:
 
 - Menu lateral.
-- Style guide.
+- Guia de estilo.
 
 ## [1.0.5] - 22-07-2019
 
@@ -152,7 +165,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Adição :rocket:
 
-- Início do style de Cores.
+- Início do guia de Cores.
 
 ### Correção :wrench:
 
