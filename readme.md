@@ -6,6 +6,19 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.4] - 07-08-2019
+
+### Adição :rocket:
+
+- Switches com ON e OFF.
+- Experimentações de tamanhos de fontes.
+- Guia de estilo - Erros inputs
+
+### Atualização :pushpin:
+
+- Guia de estilo - Modo alto contraste.
+- Guia de estilo - Modo daltônico.
+
 ## [1.1.3] - 05-08-2019
 
 ### Adição :rocket:
