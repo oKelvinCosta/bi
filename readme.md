@@ -6,13 +6,30 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.5] - 14-08-2019
+
+### Adição :rocket:
+
+- Guia de estilo - Erro input checkbox.
+- Guia de estilo - Erro input radio.
+- Guia de estilo - Erro input select/text.
+
+### Atualização :pushpin:
+
+- Guia de estilo - Troca de imagens de referência por telas do protótipo.
+- Cores principais com melhor constraste.
+
+### Correção :wrench:
+
+- Switches sem ON e OFF, mas com ícone.
+
 ## [1.1.4] - 07-08-2019
 
 ### Adição :rocket:
 
 - Switches com ON e OFF.
 - Experimentações de tamanhos de fontes.
-- Guia de estilo - Erros inputs
+- Guia de estilo - Erro input file.
 
 ### Atualização :pushpin:
 
