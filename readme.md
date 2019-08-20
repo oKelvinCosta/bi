@@ -6,6 +6,16 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.6] - 19-08-2019
+
+### Adição :rocket:
+
+- Guia de estilo - Página 404.
+
+### Atualização :pushpin:
+
+- Tela de Cronograma finalizada.
+
 ## [1.1.5] - 14-08-2019
 
 ### Adição :rocket:
