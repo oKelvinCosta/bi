@@ -6,6 +6,18 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.7] - 20-08-2019
+
+### Adição :rocket:
+
+- Adicionar especificações de margem no termo de formalização.
+
+### Atualização :pushpin:
+
+- Atualizar sessões refatorando o botão observação.
+- CRUD marcador.
+- Guia de estilo - 2 exemplos de mudança da modal editar para pop up editar.
+
 ## [1.1.6] - 19-08-2019
 
 ### Adição :rocket:
