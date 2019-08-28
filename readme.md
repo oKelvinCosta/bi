@@ -6,6 +6,33 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.1.9] - 28-08-2019
+
+### Adição :rocket:
+
+- Telas de Gerenciamento de Permissões.
+
+### Atualização :pushpin:
+
+- Reformulação do cabeçalho para todas as seções da chamada.
+- Atualização cabeçalho em todas as telas.
+
+## [1.1.8] - 21-08-2019
+
+### Atualização :pushpin:
+
+- Sessões refatorando o botão observação.
+
+- Cor das tabs de sessões.
+
+- Exclusão do campo de programa no modal criação de objetivo do termo de formalização.
+
+- No histórico de modificações: A Tag de "CRIAÇÃO" vai virar "AÇÃO" e a tag de AÇÃO não é expansível.
+
+### Correção :wrench:
+
+- Margem do menu contexto.
+
 ## [1.1.7] - 20-08-2019
 
 ### Adição :rocket:
