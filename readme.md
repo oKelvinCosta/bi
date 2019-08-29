@@ -6,6 +6,12 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.2.0] - 29-08-2019
+
+### Adição :rocket:
+
+- ícone de link externo nos links.
+
 ## [1.1.9] - 28-08-2019
 
 ### Adição :rocket:
