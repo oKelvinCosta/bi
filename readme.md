@@ -6,20 +6,29 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.2.1] - 03-09-2019
+## [1.2.2] - 04-09-2019
 
 ### Atualização :pushpin:
 
+- Organização de arquivos em arquivos menores substituindo os arquivos **Telas_EvandoMirra_StyleGuide.xd.** e **Telas_EvandoMirra.xd**[95%] - **Issue #105**.
+- Refatorações Gerais - **Issue #105**.
+- Vários ítens do termo de formalização - **Issue #106**.
+
+## [1.2.1] - 03-09-2019
+
+### Adição :rocket:
+
 - Alternativas bolinhas linha do tempo e documentação no Guia de estilo - **Issue #101**.
+
+### Atualização :pushpin:
+
 - Azul mais escuro para botões primários azul.
-- Gerenciamento de permissões com permissões individuais - **Issue #39**
+- Gerenciamento de permissões com permissões individuais - **Issue #39**.
 - Troca do modo de visualização de modal para pop up com medidas corrigidas - **Issue #85 e #107**.
 - Guia de Estilo com apenas o Guia de Estilo.
 - Opção Gerenciamento de Permissões no menu lateral principal.
 
 ## [1.2.0] - 29-08-2019
-
-### Adição :rocket:
 
 - ícone de link externo nos links.
 
