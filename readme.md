@@ -6,7 +6,17 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.2.2] - 04-09-2019
+## [1.2.3] 10-09-2019
+
+[ATT]
+
+- Organização de arquivos em arquivos menores substituindo os arquivos **Telas_EvandoMirra_StyleGuide.xd.** e **Telas_EvandoMirra.xd**[100%] - **Issue #105**.
+
+### Correção :wrench:
+
+- Em metas mudei a microetapa respectiva da aprovação para aprovação.
+
+## [1.2.2] 04-09-2019
 
 ### Atualização :pushpin:
 
@@ -14,7 +24,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Refatorações Gerais - **Issue #105**.
 - Vários ítens do termo de formalização - **Issue #106**.
 
-## [1.2.1] - 03-09-2019
+## [1.2.1] 03-09-2019
 
 ### Adição :rocket:
 
@@ -28,11 +38,11 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Guia de Estilo com apenas o Guia de Estilo.
 - Opção Gerenciamento de Permissões no menu lateral principal.
 
-## [1.2.0] - 29-08-2019
+## [1.2.0] 29-08-2019
 
 - ícone de link externo nos links.
 
-## [1.1.9] - 28-08-2019
+## [1.1.9] 28-08-2019
 
 ### Adição :rocket:
 
@@ -43,7 +53,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Reformulação do cabeçalho para todas as seções da chamada.
 - Atualização cabeçalho em todas as telas.
 
-## [1.1.8] - 21-08-2019
+## [1.1.8] 21-08-2019
 
 ### Atualização :pushpin:
 
@@ -59,7 +69,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Margem do menu contexto.
 
-## [1.1.7] - 20-08-2019
+## [1.1.7] 20-08-2019
 
 ### Adição :rocket:
 
@@ -71,7 +81,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - CRUD marcador.
 - Guia de estilo - 2 exemplos de mudança da modal editar para pop up editar.
 
-## [1.1.6] - 19-08-2019
+## [1.1.6] 19-08-2019
 
 ### Adição :rocket:
 
@@ -81,7 +91,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Tela de Cronograma finalizada.
 
-## [1.1.5] - 14-08-2019
+## [1.1.5] 14-08-2019
 
 ### Adição :rocket:
 
@@ -98,7 +108,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Switches sem ON e OFF, mas com ícone.
 
-## [1.1.4] - 07-08-2019
+## [1.1.4] 07-08-2019
 
 ### Adição :rocket:
 
@@ -111,7 +121,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Guia de estilo - Modo alto contraste.
 - Guia de estilo - Modo daltônico.
 
-## [1.1.3] - 05-08-2019
+## [1.1.3] 05-08-2019
 
 ### Adição :rocket:
 
@@ -124,7 +134,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Guia de estilo - Tabelas.
 
-## [1.1.2] - 02-08-2019
+## [1.1.2] 02-08-2019
 
 ### Adição :rocket:
 
@@ -141,7 +151,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Padronização medidas das telas de Linha do Tempo.
 - Guia de Estilo - Artboard tabelas re-adicionado.
 
-## [1.1.1] - 31-07-2019
+## [1.1.1] 31-07-2019
 
 ### Adição :rocket:
 
@@ -153,7 +163,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Reformulação para o formulário ocupar mais espaço na tela de Linha do Tempo - Termo de Formalização.
 - Switch menu perfil.
 
-## [1.1.0] - 30-07-2019
+## [1.1.0] 30-07-2019
 
 ### Adição :rocket:
 
@@ -163,7 +173,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Novos campos provisórios de cadastro de usuário.
 
-## [1.0.9] - 29-07-2019
+## [1.0.9] 29-07-2019
 
 ### Adição :rocket:
 
@@ -179,7 +189,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Botão de filtros nas tabelas.
 
-## [1.0.8] - 26-07-2019
+## [1.0.8] 26-07-2019
 
 ### Adição :rocket:
 
@@ -198,7 +208,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Mudança de termos no readme.md.
 - Menu contextual estava sobre a migalha e pão.
 
-## [1.0.7] - 25-07-2019
+## [1.0.7] 25-07-2019
 
 ### Adição :rocket:
 
@@ -215,7 +225,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Troca do changelog.txt para o readme.md.
 
-## [1.0.6] - 23-07-2019
+## [1.0.6] 23-07-2019
 
 ### Adição :rocket:
 
@@ -231,14 +241,14 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Menu lateral.
 - Guia de estilo.
 
-## [1.0.5] - 22-07-2019
+## [1.0.5] 22-07-2019
 
 ### Atualização :pushpin:
 
 - Link do modal de editar no termo de formalização.
 - Tabelas do modal de editar no termo de formalização.
 
-## [1.0.4] - 12-07-2019
+## [1.0.4] 12-07-2019
 
 ### Adição :rocket:
 
@@ -259,14 +269,14 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Substituição do antigo modelo de tabelas para o novo.
 - Troca de ícones de comentário na tramitação e por campos.
 
-## [1.0.3] - 09-07-2019
+## [1.0.3] 09-07-2019
 
 ### Adição :rocket:
 
 - Resolução doc SEXTOU 98%.
 - Resolução ítens reunião 09/07/2019 98%.
 
-## [1.0.2] - 05-07-2019
+## [1.0.2] 05-07-2019
 
 ### Adição :rocket:
 
@@ -276,8 +286,12 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Links do protótipo.
 
-## [1.0.1] - 05-07-2019
+## [1.0.1] 05-07-2019
 
 ### Adição :rocket:
 
 - Proposta para correção final do protótipo para reunião aos superiores.
+
+#### Variáveis
+
+[ATT]: ### Atualização :pushpin:
