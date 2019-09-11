@@ -6,9 +6,21 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.2.4] 11-09-2019
+
+### Adição :rocket:
+
+- Modal de aviso ao tentar fechar modal de edição sem salvar - **Issue #100**.
+
+### Atualização :pushpin:
+
+- Troca Foto do Batman para o Ícone de letras.
+- Botão para quando outra pessoa já está editando (com a foto dos usuários ou borda amarela) - **Issue #100**.
+- Refatorar menu de ações da linha do tempo - **Issue #103**.
+
 ## [1.2.3] 10-09-2019
 
-[ATT]
+### Atualização :pushpin:
 
 - Organização de arquivos em arquivos menores substituindo os arquivos **Telas_EvandoMirra_StyleGuide.xd.** e **Telas_EvandoMirra.xd**[100%] - **Issue #105**.
 
@@ -291,7 +303,3 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Adição :rocket:
 
 - Proposta para correção final do protótipo para reunião aos superiores.
-
-#### Variáveis
-
-[ATT]: ### Atualização :pushpin:
