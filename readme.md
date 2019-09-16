@@ -6,6 +6,47 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.2.7] 16-09-2019
+
+### Atualização :pushpin:
+
+#### 7 - Perfil_Usuarios
+
+- Menu lateral - **Issue #94**.
+- Campos Dados Pessoais - **Issue #94**.
+- Cabeçalho - **Issue #94**.
+
+#### 2 - Login
+
+- Campos no Pré Cadastro - **Issue #94**.
+
+#### 3 - Termo_Formalização
+
+- Migalha de pão com todas as rotas react.
+
+## [1.2.6] 13-09-2019
+
+### Adição :rocket:
+
+#### 3 - Termo_Formalização
+
+- Alternativas para a adição do status no cabeçalho.
+
+## [1.2.5] 12-09-2019
+
+### Atualização :pushpin:
+
+- Redução da tipografia ícone usuário.
+
+#### 3 - Termo_Formalização
+
+- Alterar ícone de atribuição dos ícones do perfil das pessoas atribuídas dentro da chamada - **Issue #100**.
+
+#### 2 - Login
+
+- Alterar o ícone dentro da chamada e nos cards da chamada - **Issue #100**.
+- Tirar o “Aplicar” do marcador/atribuição do protótipo - **Issue #100**.
+
 ## [1.2.4] 11-09-2019
 
 ### Adição :rocket:
