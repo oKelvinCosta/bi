@@ -1,10 +1,33 @@
 # Wiki
 
-[Acessar a Wiki](https://gitlab.com/fapemig/evando-mirra-design),
+[Acessar a Wiki](https://gitlab.com/fapemig/fapemig/wikis/Home)
 
 # Changelog
 
-O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+
+## [1.2.8] 19-09-2019
+
+### Adição :rocket:
+
+- Documento para referência das telas da primeira designer do Evando Mirra `referencias > EverestFapemig.xd`.
+- Documento Referencial Material Design em `referencias > xd-resources-material-design-ui`.
+
+### Atualização :pushpin:
+
+#### 2 - Login
+
+- Atualização placeholders do Cadastro.
+
+#### 7 - Perfil_Usuarios
+
+- Todas as telas terminadas - **Issue #94**.
+- Cor cinza mais escuro menu de contexto - **Issue #146**.
+- Dados profissionais - **Issue #94**.
+
+#### 3 - Termo_Formalização
+
+- Espaçamento dos inputs de uma categoria de checkbox Origem do Recurso.
 
 ## [1.2.7] 16-09-2019
 
