@@ -6,6 +6,22 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## [1.2.9] 25-09-2019
+
+### Adição :rocket:
+
+- Pasta `telas_exportadas` com as telas mais recentes (Adicionado aqui por questões de documentação).
+
+### Atualização :pushpin:
+
+#### 1-Guia_Estilo
+
+- Telas de Termo de Formalização.
+
+#### 3 - Termo_Formalização
+
+- Novo modelo de cabeçalho.
+
 ## [1.2.8] 19-09-2019
 
 ### Adição :rocket:
