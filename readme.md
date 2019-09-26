@@ -6,6 +6,22 @@
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+## [1.3.0] 26-09-2019
+
+### Atualização :pushpin:
+
+- Atualização imagens exportadas `1-Guia_Estilo`, `3_Termo_Formalização`.
+
+### Correção :wrench:
+
+#### 1 - Guia_Estilo
+
+- Irregularidades de padrões.
+
+#### 3 - Termo_Formalização
+
+- Migalha de pão para background cinza.
+
 ## [1.2.9] 25-09-2019
 
 ### Adição :rocket:
@@ -14,7 +30,7 @@ O formato segue [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Atualização :pushpin:
 
-#### 1-Guia_Estilo
+#### 1 - Guia_Estilo
 
 - Telas de Termo de Formalização.
 
